@@ -1,0 +1,1444 @@
+/*HOME - MEDIA*/
+
+@media only screen and (max-width:1800px) {
+.zoom_container {
+	width: 100%;
+}
+
+.zoomhomeimage img {
+	width: 100%;
+}
+
+
+header {
+	width: 100%;
+	height: 50px;
+	transition: all .25s linear; 
+  	-o-transition: all .25s linear; 
+  	-moz-transition: all .25s linear; 
+  	-webkit-transition: all .25s linear;
+}
+		
+#logo  {
+	margin:0;
+	background: url("../mywebsite2/graphics/bsiconredsquare4_hsla_mobile.png") no-repeat center;
+	max-width: 133px;
+	height: 50px;
+	transition: all .25s linear; 
+  	-o-transition: all .25s linear; 
+  	-moz-transition: all .25s linear; 
+  	-webkit-transition: all .25s linear;
+}
+
+nav  {	
+	padding: 10px 10px 0 0;		
+}
+
+nav ul {
+	width: 100%;
+}
+
+
+nav ul li {
+	font-size: 80%;
+	padding:10px 10px 0 0;
+}
+
+.home_copy_container h1 {
+	font-size: 120%;
+	width:100%;
+	padding: 7% 0 1% 0;
+}
+
+.home_copy_container p {
+	font-size: 120%;
+	width:100%;
+	padding:0 0 2% 0;
+}
+
+.home_copy_container {
+	width:80%;
+	padding:0;
+}
+
+
+
+
+.flex-container_hm {
+	width: 100%;
+	padding: 3%;
+}
+
+.flex-container_hm .flex-item_hm {
+	width:30%;
+	height:auto;
+}
+	
+.text_wrapper1 h3{
+width: 80%;
+	display:none;
+}
+
+
+.flex-container_hm :hover .text_wrapper1 {             
+    display: none;   
+ } 
+ 
+
+	
+.parallax{
+	background:none;
+}
+
+
+/*bottom nav beginning*/
+
+
+/*bottom nav end*/
+
+
+/*NAPPIOLOGY - MEDIA*/
+.nappiology_promotion_digital {
+	width: 100%;
+	padding-top: 3%;
+}
+
+.nappiology_pic1 img{
+	width: 100%;
+}
+
+.flex-container_nappiology {
+	width:75%;
+	padding-bottom: 30%;
+}
+
+.nappiology_content {
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	top: 45px;
+	padding:0;
+	transition: all .55s linear; 
+  	-o-transition: all .55s linear; 
+  	-moz-transition: all .55s linear; 
+  	-webkit-transition: all .55s linear;
+}
+
+
+.nappiology_container {
+	width: 100%;
+	height:auto;
+	padding-bottom:0%;
+}
+
+.nappiology_promotion_cards {
+	width: 100%;
+	padding-bottom:20%;
+	transition: all .5s linear; 
+  	-o-transition: all .75s linear; 
+  	-moz-transition: all .75s linear; 
+  	-webkit-transition: all .75s linear;
+}
+.flex-container_nappiology {
+	position: relative;
+	top: 90%; 
+}
+
+.nappiology_content p{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size:145%;
+	padding:0 0 9% 0;
+}
+
+.nappiology_content h3{
+	width: 75%;	
+	font-size:175%;
+	margin-left: auto;
+	margin-right: auto;
+	padding:13% 0 1% 0;
+	height:20%;
+}
+
+.nappiology_content h1{
+	width: 75%;	
+	font-size:300%;	
+	margin-left: auto;
+	margin-right: auto;	
+	padding:0 0 1% 0;
+	height:20%;
+}
+
+
+
+
+.iconic_collateral_content {
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	top: 45px;
+	padding:0;
+	transition: all .55s linear; 
+  	-o-transition: all .55s linear; 
+  	-moz-transition: all .55s linear; 
+  	-webkit-transition: all .55s linear;
+}
+
+
+.iconic_collateral_container {
+	width: 100%;
+	height:auto;
+	padding-bottom:5%;
+}
+
+.iconic_collateral {
+	width: 100%;
+	padding-bottom:20%;
+	transition: all .5s linear; 
+  	-o-transition: all .75s linear; 
+  	-moz-transition: all .75s linear; 
+  	-webkit-transition: all .75s linear;
+}
+.flex-container_iconic_collateral {
+	position: relative;
+	top: 90%; 
+}
+
+.iconic_collateral_content p{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size:145%;
+	padding:0 0 9% 0;
+}
+
+.iconic_collateral_content h3{
+	width: 75%;	
+	font-size:145%;
+	margin-left: auto;
+	margin-right: auto;
+	padding:13% 0 1% 0;
+	height:20%;
+}
+
+.iconic_collateral_content h1{
+	width: 75%;	
+	font-size:300%;	
+	margin-left: auto;
+	margin-right: auto;	
+	padding:0 0 1% 0;
+	height:20%;
+}
+
+.flex-container_iconic {
+	position: relative;
+	top: 60%;
+	right:0%; 
+}
+
+
+
+/*KZPS - MEDIA*/
+.kzps_tshirt img{
+	padding: 20% 0 0% 0;
+}
+
+.kzps_pod {
+	padding-bottom: 10%;
+}
+
+.kzps_pod_content {
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	top: 45px;
+	padding:0;
+	transition: all .25s linear; 
+  	-o-transition: all .25s linear; 
+  	-moz-transition: all .25s linear; 
+  	-webkit-transition: all .25s linear;
+}
+
+
+.kzps_pod_container {
+	width: 100%;
+	height:auto;
+	padding-bottom:0%;
+}
+
+.kzps_pod {
+	width: 100%;
+	padding-bottom:20%;
+	transition: all .5s linear; 
+  	-o-transition: all .75s linear; 
+  	-moz-transition: all .75s linear; 
+  	-webkit-transition: all .75s linear;
+}
+.flex-container_kzps_pod {
+	position: relative;
+	top: 90%; 
+}
+
+.kzps_pod_content p{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size:145%;
+	padding:0 0 9% 0;
+}
+
+.kzps_pod_content h3{
+	width: 75%;	
+	font-size:175%;
+	margin-left: auto;
+	margin-right: auto;
+	padding:13% 0 1% 0;
+	height:20%;
+}
+
+.kzps_pod_content h1{
+	width: 75%;	
+	font-size:300%;	
+	margin-left: auto;
+	margin-right: auto;	
+	padding:0 0 1% 0;
+	height:20%;
+}
+
+.flex-container_kzps_pod {
+	width: 80%;
+	padding: 0 0 0 10%;
+}
+
+/*KZPS - MEDIA*/
+
+
+.cbc_hs_pod_content {
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	top: 45px;
+	padding:0;
+	transition: all .25s linear; 
+  	-o-transition: all .25s linear; 
+  	-moz-transition: all .25s linear; 
+  	-webkit-transition: all .25s linear;
+}
+
+
+.cbc_hs_pod_container {
+	width: 100%;
+	height:auto;
+	padding-bottom:0%;
+}
+
+.cbc_hs_pod {
+	width: 100%;
+	padding-bottom:0%;
+	transition: all .5s linear; 
+  	-o-transition: all .75s linear; 
+  	-moz-transition: all .75s linear; 
+  	-webkit-transition: all .75s linear;
+}
+.flex-container_cbc_hs_pod {
+	position: relative;
+	top: 90%; 
+}
+
+.cbc_hs_pod_content p{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size:145%;
+	padding:0 0 9% 0;
+}
+
+.cbc_hs_pod_content h3{
+	width: 75%;	
+	font-size:175%;
+	margin-left: auto;
+	margin-right: auto;
+	padding:13% 0 1% 0;
+	height:20%;
+}
+
+.cbc_hs_pod_content h1{
+	width: 75%;	
+	font-size:300%;	
+	margin-left: auto;
+	margin-right: auto;	
+	padding:0 0 1% 0;
+	height:20%;
+}
+
+
+
+
+.cbcthscards_content {
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	top: 45px;
+	padding:0;
+	transition: all .25s linear; 
+  	-o-transition: all .25s linear; 
+  	-moz-transition: all .25s linear; 
+  	-webkit-transition: all .25s linear;
+}
+
+
+.cbcthscards_container {
+	width: 100%;
+	height:auto;
+	padding-bottom:5%;
+}
+
+.cbcthscards {
+	width: 100%;
+	padding-bottom:20%;
+	transition: all .5s linear; 
+  	-o-transition: all .75s linear; 
+  	-moz-transition: all .75s linear; 
+  	-webkit-transition: all .75s linear;
+}
+.flex-container_cbcthscards {
+	position: relative;
+	top: 90%; 
+}
+
+.cbcthscards_content p{
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size:145%;
+	padding:0 0 9% 0;
+}
+
+.cbcthscards_content h3{
+	width: 75%;	
+	font-size:175%;
+	margin-left: auto;
+	margin-right: auto;
+	padding:13% 0 1% 0;
+	height:20%;
+}
+
+.cbcthscards_content h1{
+	width: 75%;	
+	font-size:300%;	
+	margin-left: auto;
+	margin-right: auto;	
+	padding:0 0 1% 0;
+	height:20%;
+}
+
+
+
+
+
+
+
+
+.work_title h2{
+	width: 100%;
+	height:auto;
+	padding: 1.5% 0 .5% 0;
+	font-size: 220%;
+}
+
+.fluid-container_bsaboutmepic2 {
+	width: 100%;
+	padding: 3% 0 0% 0;
+	margin: 32% 0 0 0;
+}
+
+.flex-container_bsaboutmepic2 {
+	width: 100%;
+	position:relative;
+	top: 6%;
+}
+
+.flex-inner_bsaboutmepic2 {
+	width: 100%;
+	height:100%;
+}
+
+.bsaboutmepic2 {
+	position: relative;
+	top: 45px;
+	z-index:-55;
+}
+
+.bsaboutmepic2 {
+-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    margin:0;
+    padding: 0;
+}
+
+
+.flex-inner_bsaboutmepic2 {
+	width: 75%;
+	padding: 35% 0 10% 12%;
+	margin:0;
+	transition: all .25s linear; 
+  	-o-transition: all .25s linear; 
+  	-moz-transition: all .25s linear; 
+  	-webkit-transition: all .25s linear;
+}
+
+.flex-inner_bsaboutmepic2 p{
+	width: 100%;
+	font-size:145%;
+	color: black;	
+}
+
+.flex-inner_bsaboutmepic2 h3{
+	width: 100%;	
+	font-size:175%;
+	color: black;
+}
+
+.flex-inner_bsaboutmepic2 h1{
+	width: 100%;	
+	font-size:300%;	
+	color: #be1035;	
+}
+}
+
+
+
+
+
+@media screen and (max-width: 1200px) {
+
+.flex-container_hm {
+	width: 95%;
+	height: auto;
+ 	padding: 2% 0 3% 0;
+}
+
+.flex-container_hm .flex-item_hm {
+	width: 100%
+	margin: 0;
+}
+
+
+
+
+
+.nappiology_promotion_digital {
+	width: 100%;
+	padding-top: 3%;
+}
+
+.nappiology_pic1 img{
+	width: 100%;
+}
+
+.flex-container_nappiology {
+	width:75%;
+	padding-bottom: 30%;
+}
+
+
+.nappiology_content p{
+	width: 75%;
+	font-size:120%;
+}
+
+.nappiology_content h3{
+	width: 75%;	
+	font-size:135%;
+}
+
+.nappiology_content h1{
+	width: 75%;	
+	font-size:220%;	
+}
+
+
+
+.iconic_collateral_content p{
+	width: 75%;
+	font-size:120%;	
+}
+
+.iconic_collateral_content h3{
+	width: 75%;	
+	font-size:135%;
+	
+}
+
+.iconic_collateral_content h1{
+	width: 75%;	
+	font-size:220%;	
+}
+
+
+
+.kzps_tshirt img{
+	padding: 20% 0 0% 0;
+}
+
+.kzps_pod {
+	padding-bottom: 10%;
+}
+
+.kzps_pod_content p{
+	width: 75%;
+	font-size:120%;
+}
+
+.kzps_pod_content h3{
+	width: 75%;	
+	font-size:135%;
+}
+
+.kzps_pod_content h1{
+	width: 75%;	
+	font-size:220%;	
+}
+
+
+
+
+
+.cbc_hs_pod_content p{
+	width: 75%;
+	font-size:120%;
+}
+
+.cbc_hs_pod_content h3{
+	width: 75%;	
+	font-size:135%;
+}
+
+.cbc_hs_pod_content h1{
+	width: 75%;	
+	font-size:220%;	
+}
+
+
+
+.cbcthscards_content p{
+	width: 75%;
+	font-size:120%;
+}
+
+.cbcthscards_content h3{
+	width: 75%;	
+	font-size:135%;
+}
+
+.cbcthscards_content h1{
+	width: 75%;	
+	font-size:220%;	
+}
+
+
+
+
+
+.work_title h2{
+	width: 100%;
+	height:auto;
+	padding: 1.5% 0 .5% 0;
+	font-size: 230%;
+}
+
+.fluid-container_bsaboutmepic2 {
+	width: 100%;
+	padding: 3% 0 0% 0;
+	margin: 0% 0 0 0;
+}
+
+.flex-container_bsaboutmepic2 {
+	width: 100%;
+	position:relative;
+	top: 6%;
+	padding: 0% 0 37% 0;
+}
+
+.flex-inner_bsaboutmepic2 {
+	width: 100%;
+	height:100%;
+}
+
+.bsaboutmepic2 {
+	position: relative;
+	top: 45px;
+	z-index:-55;
+}
+
+.bsaboutmepic2 {
+-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    margin:0;
+    padding: 0;
+}
+
+
+.flex-inner_bsaboutmepic2 {
+	width: 75%;
+	padding: 35% 0 10% 12%;
+	margin:0;
+}
+
+.flex-inner_bsaboutmepic2 p{
+	width: 100%;
+	font-size:120%;
+	color: black;	
+}
+
+.flex-inner_bsaboutmepic2 h3{
+	width: 100%;	
+	font-size:135%;
+	color: black;
+}
+
+.flex-inner_bsaboutmepic2 h1{
+	width: 100%;	
+	font-size:220%;	
+	color: #be1035;	
+}
+}
+
+
+
+@media screen and (max-width: 968px) {
+
+
+.nappiology_pic1 img{
+	margin-left:0%;
+	padding-top:0%;
+}
+
+.flex-container_nappiology {
+	width:75%;
+	padding-bottom: 30%;
+}
+
+.nappiology_content p{
+	width: 75%;
+	font-size:120%;
+}
+
+.nappiology_content h3{
+	width: 75%;	
+	font-size:120%;
+	padding-top:15%;
+}
+
+.nappiology_content h1{
+	width: 75%;	
+	font-size:220%;	
+}
+
+
+
+
+.iconic_collateral_content p{
+	width:75%;
+	font-size:120%;	
+}
+
+.iconic_collateral_content h3{
+	padding-top:15%;
+	width:75%;
+	font-size:120%;
+	
+}
+
+.iconic_collateral_content h1{
+	font-size:220%;	
+	width:75%;	
+}
+
+
+
+.kzps_tshirt img{
+	padding: 20% 0 0% 0;
+}
+.kzps_pod {
+	padding-bottom: 10%;
+}
+
+.kzps_pod_content p{
+	width: 75%;
+	font-size:120%;
+}
+
+.kzps_pod_content h3{
+	width: 75%;	
+	font-size:120%;
+	padding-top:15%;
+
+}
+
+.kzps_pod_content h1{
+	width: 75%;	
+	font-size:220%;		
+} 
+
+
+
+.cbc_hs_pod img{
+	max-width: 110%;
+}
+
+.cbc_hs_pod_content p{
+	width: 75%;
+	font-size:120%;
+}
+
+.cbc_hs_pod_content h3{
+	width: 75%;	
+	font-size:120%;
+	padding-top:15%;
+}
+
+.cbc_hs_pod_content h1{
+	width: 75%;	
+	font-size:220%;	
+}
+
+
+
+
+.cbcthscards_content p{
+	width: 75%;
+	font-size:120%;
+}
+
+.cbcthscards_content h3{
+	width: 75%;	
+	font-size:120%;
+	padding-top:15%;
+}
+
+.cbcthscards_content h1{
+	width: 75%;	
+	font-size:220%;	
+}
+
+
+
+
+
+
+
+.work_title h2{
+	width: 100%;
+	height:auto;
+	padding: 1.5% 0 .5% 0;
+	font-size: 220%;
+}
+
+.fluid-container_bsaboutmepic2 {
+	width: 100%;
+	padding: 3% 0 0% 0;
+	margin: 0% 0 0 0;
+}
+
+.flex-container_bsaboutmepic2 {
+	width: 100%;
+	position:relative;
+	top: 6%;
+	padding: 0% 0 41% 0;
+}
+
+.flex-inner_bsaboutmepic2 {
+	width: 100%;
+	height:100%;
+}
+
+.bsaboutmepic2 {
+	position: relative;
+	top: 45px;
+	z-index:-55;
+}
+
+.bsaboutmepic2 {
+-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    margin:0;
+    padding: 0;
+}
+
+
+.flex-inner_bsaboutmepic2 {
+	width: 75%;
+	padding: 35% 0 10% 12%;
+	margin:0;
+}
+
+.flex-inner_bsaboutmepic2 p{
+	width: 100%;
+	font-size:120%;
+	color: black;	
+}
+
+.flex-inner_bsaboutmepic2 h3{
+	width: 100%;	
+	font-size:120%;
+	color: black;
+}
+
+.flex-inner_bsaboutmepic2 h1{
+	width: 100%;	
+	font-size:220%;	
+	color: #be1035;	
+}
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+
+.flex-container_hm {
+	max-width: 1270px;
+	height: auto;
+ 	padding: 1% 0 1% 0;
+}
+
+.flex-container_hm img{
+	width: 100%;
+}
+
+.flex-container_hm .flex-item_hm {
+	width:47%;
+	height:auto;
+	padding:0;	
+}
+
+.fluid-container {
+	background-color:none;
+	padding:0;
+}
+
+.flex-container_hm .flex-item_hm {
+	width: 100%;
+	padding: 0;
+	background-color: none;
+}
+
+
+
+
+.nappiology_promotion_cards {
+	display: inline-block;
+	width:90%;
+	padding: 0 0% 10% 0%
+}
+
+
+.flex-container_nappiology {
+	width: 80%;	
+}
+
+
+.nappiology_promotion_cards img{
+	width: 80%;
+}
+
+
+.nappiology_content p{
+	width: 75%;
+	font-size:100%;
+}
+
+.nappiology_content h3{
+	width: 75%;	
+	font-size:105%;
+}
+
+.nappiology_content h1{
+	width: 75%;	
+	font-size:170%;	
+}
+
+
+
+
+.iconic_collateral img{
+	max-width: 110%;
+}
+
+.iconic_collateral_content p{
+	width:75%;
+	font-size:100%;	
+}
+
+.iconic_collateral_content h3{
+	width: 75%;	
+	font-size:105%;
+	
+}
+
+.iconic_collateral_content h1{
+	font-size:170%;	
+	width:75%;	
+}
+
+
+
+
+.kzps_tshirt img{
+	padding: 20% 0 0% 0;
+}
+.kzps_pod {
+	padding-bottom: 10%;
+}
+
+.kzps_pod_content p{
+	width: 75%;
+	font-size:100%;
+}
+
+.kzps_pod_content h3{
+	width: 75%;	
+	font-size:105%;
+}
+
+.kzps_pod_content h1{
+	width: 75%;	
+	font-size:170%;		
+}
+
+
+
+
+.cbc_hs_pod {
+	padding-bottom: 10%;
+}
+
+.cbc_hs_pod_content {
+	width: 100%;
+}
+
+
+.cbc_hs_pod_content p{
+	width: 75%;
+	font-size:100%;
+
+}
+
+.cbc_hs_pod_content h3{
+	width: 75%;	
+	font-size:105%;
+}
+
+.cbc_hs_pod_content h1{
+	width: 75%;	
+	font-size:170%;
+}
+
+
+
+
+.cbcthscards_container {
+	padding-bottom: 0%;
+}
+
+.cbcthscards_content {
+	width: 100%;
+}
+
+
+.cbcthscards_content p{
+	width: 75%;
+	font-size:100%;
+}
+
+.cbcthscards_content h3{
+	width: 75%;	
+	font-size:105%;
+}
+
+.cbcthscards_content h1{
+	width: 75%;	
+	font-size:170%;
+}
+
+
+
+
+
+.work_title h2{
+	width: 100%;
+	height:auto;
+	padding: 1.5% 0 1% 0;
+	font-size: 190%;
+}
+
+.fluid-container_bsaboutmepic2 {
+
+	width: 100%;
+	padding: 3% 0 0% 0;
+	margin: 0% 0 0 0;
+}
+
+.flex-container_bsaboutmepic2 {
+	width: 100%;
+	position:relative;
+	top: 6%;
+	padding-bottom: 39%;
+}
+
+.flex-inner_bsaboutmepic2 {
+	width: 100%;
+	height:100%;
+}
+
+.bsaboutmepic2 {
+	position: relative;
+	top: 45px;
+	z-index:-55;
+}
+
+.bsaboutmepic2 {
+-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    margin:0;
+    padding: 0;
+}
+
+
+.flex-inner_bsaboutmepic2 {
+	width: 100%;
+	padding: 32% 10%;
+	margin:0;
+}
+
+.flex-inner_bsaboutmepic2 p{
+	width: 100%;
+	font-size:100%;
+	color: black;	
+}
+
+.flex-inner_bsaboutmepic2 h3{
+	width: 100%;	
+	font-size:105%;
+	color: black;
+}
+
+.flex-inner_bsaboutmepic2 h1{
+	width: 100%;	
+	font-size:170%;	
+	color: #be1035;	
+}
+
+
+
+
+
+.nav-item_bottom  {
+padding: 0% 0 0 0;
+width: 120%;
+font-size:100%;	
+}
+
+
+.nav-item_bottom a:hover{
+   display: none;
+}
+
+.cta {
+	font-size: 2.5em;
+}
+
+.bernard2018  { 
+	font-size: 80%;
+	padding-top: 1%;
+}
+}
+
+
+@media screen and (max-width: 432px) {
+
+.fluid-container {
+	background-color:none;
+	padding:0;
+}
+
+.flex-container_hm .flex-item_hm {
+	width: 100%;
+	padding: 0;
+	background-color: none;
+}
+
+
+.nappiology_promotion_cards {
+	display: inline-block;
+	width:90%;
+	padding: 0 0% 10% 0%
+}
+
+.nappiology_promotion_digital {
+	width: 90%;
+}
+
+.nappiology_pic1 img{
+	margin:0%;
+	padding0%;
+}
+
+.flex-container_nappiology {
+	width: 80%;
+	padding-bottom: 20%;
+}
+
+.nappiology_container{
+	width: 100%;
+	background-color:none;
+	padding-bottom: 0%;
+}
+
+
+.nappiology_content {
+	padding: 5%;
+}
+
+.nappiology_content p{
+	width: 75%;
+
+}
+
+.nappiology_content h3{
+	width: 75%;	
+	font-size:95%;
+}
+
+.nappiology_content h1{
+	width: 75%;	
+	font-size:150%;	
+	
+}
+
+
+
+
+.iconic_collateral_content {
+	padding-top: 5%;
+}
+
+.iconic_collateral_content p {
+	width: 75%;
+
+}
+
+.iconic_collateral_content h3 {
+	width: 75%;	
+	font-size:95%;
+}
+
+.iconic_collateral_content h1 {
+	width: 75%;	
+	font-size:150%;	
+}
+
+
+
+
+.kzps_tshirt img {
+	width: 100%;
+	padding-top:0%;
+}
+
+.kzps_pod_content {
+	padding-top: 5%;
+}
+
+.kzps_pod_content p{
+	width: 75%;
+	font-size:100%;
+}
+
+.kzps_pod_content h3{
+	width: 75%;	
+	font-size:95%;
+}
+
+.kzps_pod_content h1{
+	width: 75%;	
+	font-size:150%;		
+}
+
+
+
+.courage2 img{
+	padding-top:15%;
+}
+
+
+.cbc_hs_pod {
+	padding-bottom: 10%;
+}
+.cbc_hs_pod_content {
+	padding-top: 5%;
+}
+
+.cbc_hs_pod_content p{
+	width: 75%;
+	font-size:100%;
+}
+
+.cbc_hs_pod_content h3{
+	width: 75%;	
+	font-size:95%;
+}
+
+.cbc_hs_pod_content h1{
+	width: 75%;	
+	font-size:150%;	
+}
+
+
+
+
+.cbcthscards_content {
+	padding-top: 5%;
+}
+
+.cbcthscards_content p{
+	width: 75%;
+	font-size:100%;
+}
+
+.cbcthscards_content h3{
+	width: 75%;	
+	font-size:95%;
+}
+
+.cbcthscards_content h1{
+	width: 75%;	
+	font-size:150%;	
+}
+
+
+
+
+
+
+
+.work_title h2{
+	width: 100%;
+	height:auto;
+	padding: 1.5% 0 0% 0;
+	font-size: 170%;
+}
+
+.fluid-container_bsaboutmepic2 {
+position: inherit;
+	width: 100%;
+	padding: 3% 0 0% 0;
+	margin: 0% 0 0 0;
+}
+
+.flex-container_bsaboutmepic2 {
+	width: 100%;
+	position:relative;
+	top: 6%;
+	padding: 0% 0 90% 0;
+}
+
+.flex-inner_bsaboutmepic2 {
+	width: 100%;
+	height:100%;
+}
+
+.bsaboutmepic2 {
+	position: relative;
+	top: 45px;
+	z-index:-55;
+}
+
+.bsaboutmepic2 {
+-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    margin:0;
+    padding: 0;
+}
+
+
+.flex-inner_bsaboutmepic2 {
+	width: 100%;
+	padding: 35% 10%;
+	margin:0;
+}
+
+.flex-inner_bsaboutmepic2 p{
+	width: 100%;
+	font-size:100%;
+	color: black;	
+}
+
+.flex-inner_bsaboutmepic2 h3{
+	width: 100%;	
+	font-size:95%;
+	color: black;
+}
+
+.flex-inner_bsaboutmepic2 h1{
+	width: 100%;	
+	font-size:150%;	
+	color: #be1035;	
+}
+
+
+
+
+
+
+.nav-item_bottom  {
+	padding: 0% 0 0 0;
+	width: 150%;
+	font-size:130%;	
+}
+
+
+.nav-item_bottom a:hover{
+   display: none;
+}
+
+.cta {
+	font-size: 1.5em;
+}
+
+.bernard2018  { 
+	font-size: 75%;
+	padding-top: 0%;
+}
+
+
+
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 430px) {
+.contact_container {
+	width: 75%; 
+}	
+	
+.col-25, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+}
+
+.col-25 {
+        width: 75%;
+        margin-top: 0;
+}
+    
+.nav-item_bottom_about_me i {
+	font-size:85%;
+	color: white;
+}
+}
+
+
+
+
+
