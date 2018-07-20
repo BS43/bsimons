@@ -1,14 +1,9 @@
 /*HOME - MEDIA*/
 
 @media only screen and (max-width:1800px) {
-.zoom_container {
-	width: 100%;
+.zoomhomeimage {
+	top:50px;
 }
-
-.zoomhomeimage img {
-	width: 100%;
-}
-
 
 header {
 	width: 100%;
@@ -61,7 +56,7 @@ nav ul li {
 	padding:0;
 }
 
-
+/*bottom nav end*/
 
 
 .flex-container_hm {
@@ -91,25 +86,32 @@ width: 80%;
 }
 
 
-/*bottom nav beginning*/
 
 
-/*bottom nav end*/
+.contact_container {
+	width: 55%;
+}
+
+.col-25 {
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+     margin-top: 6px;
+}
+
+
+
+
+
+
 
 
 /*NAPPIOLOGY - MEDIA*/
-.nappiology_promotion_digital {
-	width: 100%;
-	padding-top: 3%;
-}
-
-.nappiology_pic1 img{
-	width: 100%;
-}
-
 .flex-container_nappiology {
 	width:75%;
-	padding-bottom: 30%;
+	padding-bottom: 20%;
+		margin-right:auto;
+	margin-left:auto;
 }
 
 .nappiology_content {
@@ -138,6 +140,7 @@ width: 80%;
   	-o-transition: all .75s linear; 
   	-moz-transition: all .75s linear; 
   	-webkit-transition: all .75s linear;
+  	
 }
 .flex-container_nappiology {
 	position: relative;
@@ -241,11 +244,7 @@ width: 80%;
 
 /*KZPS - MEDIA*/
 .kzps_tshirt img{
-	padding: 20% 0 0% 0;
-}
-
-.kzps_pod {
-	padding-bottom: 10%;
+	padding:0;
 }
 
 .kzps_pod_content {
@@ -304,11 +303,6 @@ width: 80%;
 	margin-right: auto;	
 	padding:0 0 1% 0;
 	height:20%;
-}
-
-.flex-container_kzps_pod {
-	width: 80%;
-	padding: 0 0 0 10%;
 }
 
 /*KZPS - MEDIA*/
@@ -450,7 +444,7 @@ width: 80%;
 .fluid-container_bsaboutmepic2 {
 	width: 100%;
 	padding: 3% 0 0% 0;
-	margin: 32% 0 0 0;
+	margin: 26% 0 0 0;
 }
 
 .flex-container_bsaboutmepic2 {
@@ -489,7 +483,7 @@ width: 80%;
 }
 
 .flex-inner_bsaboutmepic2 p{
-	width: 100%;
+	width: 120%;
 	font-size:145%;
 	color: black;	
 }
@@ -513,6 +507,18 @@ width: 80%;
 
 @media screen and (max-width: 1200px) {
 
+.contact_container {
+	width: 55%;
+}
+
+.col-25 {
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+     margin-top: 6px;
+}
+
+
 .flex-container_hm {
 	width: 95%;
 	height: auto;
@@ -526,20 +532,13 @@ width: 80%;
 
 
 
-
-
-.nappiology_promotion_digital {
-	width: 100%;
-	padding-top: 3%;
-}
-
-.nappiology_pic1 img{
-	width: 100%;
+hr { 
+    display: none;
 }
 
 .flex-container_nappiology {
 	width:75%;
-	padding-bottom: 30%;
+	padding-bottom: 10%;
 }
 
 
@@ -568,7 +567,6 @@ width: 80%;
 .iconic_collateral_content h3{
 	width: 75%;	
 	font-size:135%;
-	
 }
 
 .iconic_collateral_content h1{
@@ -579,7 +577,7 @@ width: 80%;
 
 
 .kzps_tshirt img{
-	padding: 20% 0 0% 0;
+	padding: 10% 0 0% 0;
 }
 
 .kzps_pod {
@@ -641,6 +639,11 @@ width: 80%;
 
 
 
+
+.zoomhomeimage {
+	top:50px;
+}
+
 .work_title h2{
 	width: 100%;
 	height:auto;
@@ -651,7 +654,7 @@ width: 80%;
 .fluid-container_bsaboutmepic2 {
 	width: 100%;
 	padding: 3% 0 0% 0;
-	margin: 0% 0 0 0;
+	margin: 30% 0 0 0;
 }
 
 .flex-container_bsaboutmepic2 {
@@ -687,7 +690,7 @@ width: 80%;
 }
 
 .flex-inner_bsaboutmepic2 p{
-	width: 100%;
+	width: 120%;
 	font-size:120%;
 	color: black;	
 }
@@ -709,15 +712,37 @@ width: 80%;
 
 @media screen and (max-width: 968px) {
 
+.contact_container {
+	width: 55%;
+}
 
-.nappiology_pic1 img{
-	margin-left:0%;
-	padding-top:0%;
+.col-25 {
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+     margin-top: 6px;
 }
 
 .flex-container_nappiology {
 	width:75%;
-	padding-bottom: 30%;
+	padding-bottom: 20%;
+}
+
+.nappiology_promotion_cards {
+	display: inline-block;
+	width:85%;
+	padding: 0 0% 15% 0%
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.flex-container_nappiology {
+	width: 100%;
+	padding-bottom: 10%;
+}
+
+hr { 
+    display: none;
 }
 
 .nappiology_content p{
@@ -759,7 +784,7 @@ width: 80%;
 
 
 .kzps_tshirt img{
-	padding: 20% 0 0% 0;
+	padding: 10% 0 0% 0;
 }
 .kzps_pod {
 	padding-bottom: 10%;
@@ -826,8 +851,9 @@ width: 80%;
 
 
 
-
-
+.zoomhomeimage {
+	top:50px;
+}
 
 .work_title h2{
 	width: 100%;
@@ -839,7 +865,7 @@ width: 80%;
 .fluid-container_bsaboutmepic2 {
 	width: 100%;
 	padding: 3% 0 0% 0;
-	margin: 0% 0 0 0;
+	margin: 37% 0 0 0;
 }
 
 .flex-container_bsaboutmepic2 {
@@ -875,7 +901,7 @@ width: 80%;
 }
 
 .flex-inner_bsaboutmepic2 p{
-	width: 100%;
+	width: 120%;
 	font-size:120%;
 	color: black;	
 }
@@ -897,46 +923,49 @@ width: 80%;
 
 @media screen and (max-width: 768px) {
 
-
-.flex-container_hm {
-	max-width: 1270px;
-	height: auto;
- 	padding: 1% 0 1% 0;
+.contact_container {
+	width: 55%;
 }
 
-.flex-container_hm img{
-	width: 100%;
-}
-
-.flex-container_hm .flex-item_hm {
-	width:47%;
-	height:auto;
-	padding:0;	
-}
-
-.fluid-container {
-	background-color:none;
-	padding:0;
+.col-25 {
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+     margin-top: 6px;
 }
 
 .flex-container_hm .flex-item_hm {
-	width: 100%;
+	width:100%;
 	padding: 0;
-	background-color: none;
 }
-
-
 
 
 .nappiology_promotion_cards {
 	display: inline-block;
-	width:90%;
-	padding: 0 0% 10% 0%
+	width:85%;
+	padding: 0 0% 15% 0%
+}
+
+.flex-container_nappiology {
+	width: 100%;
+	padding-bottom: 20%;
+}
+
+hr { 
+    display: none;
+}
+
+.nappiology_promotion_cards {
+	display: inline-block;
+	width:80%;
+	padding: 0 0% 20% 0%
+	margin-right:auto;
+	margin-left:auto;
 }
 
 
 .flex-container_nappiology {
-	width: 80%;	
+	width: 100%;	
 }
 
 
@@ -987,7 +1016,7 @@ width: 80%;
 
 
 .kzps_tshirt img{
-	padding: 20% 0 0% 0;
+	padding: 10% 0 0% 0;
 }
 .kzps_pod {
 	padding-bottom: 10%;
@@ -1067,6 +1096,11 @@ width: 80%;
 
 
 
+
+.zoomhomeimage {
+	top:50px;
+}
+
 .work_title h2{
 	width: 100%;
 	height:auto;
@@ -1078,7 +1112,7 @@ width: 80%;
 
 	width: 100%;
 	padding: 3% 0 0% 0;
-	margin: 0% 0 0 0;
+	margin: 37% 0 0 0;
 }
 
 .flex-container_bsaboutmepic2 {
@@ -1159,36 +1193,19 @@ font-size:100%;
 
 @media screen and (max-width: 432px) {
 
-.fluid-container {
-	background-color:none;
-	padding:0;
-}
-
-.flex-container_hm .flex-item_hm {
-	width: 100%;
-	padding: 0;
-	background-color: none;
-}
-
-
 .nappiology_promotion_cards {
 	display: inline-block;
-	width:90%;
+	width:85%;
 	padding: 0 0% 10% 0%
 }
 
-.nappiology_promotion_digital {
-	width: 90%;
-}
-
-.nappiology_pic1 img{
-	margin:0%;
-	padding0%;
-}
-
 .flex-container_nappiology {
-	width: 80%;
+	width: 100%;
 	padding-bottom: 20%;
+}
+
+hr { 
+    display: none;
 }
 
 .nappiology_container{
@@ -1299,6 +1316,13 @@ font-size:100%;
 
 
 
+.flex-container_hm {
+	width: 100%;
+	margin-right: auto;
+	margin-left:auto;
+	
+	}
+
 .cbcthscards_content {
 	padding-top: 5%;
 }
@@ -1335,7 +1359,7 @@ font-size:100%;
 position: inherit;
 	width: 100%;
 	padding: 3% 0 0% 0;
-	margin: 0% 0 0 0;
+	margin: 83% 0 0 0;
 }
 
 .flex-container_bsaboutmepic2 {
@@ -1391,8 +1415,7 @@ position: inherit;
 
 
 
-
-
+/*BOTTOM NAV*/
 .nav-item_bottom  {
 	padding: 0% 0 0 0;
 	width: 150%;
